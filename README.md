@@ -11,3 +11,4 @@ Imagen del comedor
 
 Imagen de los lugares vacios u ocupados con sus respectivos tiempo
 
+![Image text](https://github.com/MarlonLLaguento/TP-ProcesamientoImagenes/blob/main/Imagen%20detecci%C3%B3n.jpeg)
